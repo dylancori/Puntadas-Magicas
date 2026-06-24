@@ -258,5 +258,77 @@
   "destacado": true,
 
   "nuevo": false
+},
+{"id": 15,
+  "nombre": "Neceser Perro Salchicha",
+  "categoria": "Neceser",
+
+  "imagenes": [
+    "images/productos/Neceser/Neceser-PerroSalchicha.jpg"
+  ],
+
+  "descripcion": "Neceser Perro Salchicha",
+
+  "material": "Cordura",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 16,
+  "nombre": "Neceser Mickey",
+  "categoria": "Neceser",
+
+  "imagenes": [
+    "images/productos/Neceser/Neceser-Mickey.jpg"
+  ],
+
+  "descripcion": "Neceser Mickey",
+
+  "material": "Cordura",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 17,
+  "nombre": "Neceser Stitch",
+  "categoria": "Neceser",
+
+  "imagenes": [
+    "images/productos/Neceser/Neceser-Stitch.jpg"
+  ],
+
+  "descripcion": "Neceser Stitch",
+
+  "material": "Cordura",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 15,
+  "nombre": "Yerberos Argentina",
+  "categoria": "Yerberos",
+
+  "imagenes": [
+    "images/productos/Yerberos/YerberosArgentina.jpg"
+  ],
+
+  "descripcion": "Yerberos Argentina",
+
+  "material": "Cordura",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
 }
 ]
