@@ -1,0 +1,225 @@
+[
+{ "id": 1,
+  "nombre": "Caballito",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Caballito.jpg",
+    "images/productos/amigurumis/Caballito-2.jpg"
+  ],
+
+  "descripcion": "Caballito de apego tejido a mano🐴.Creada para acompañar, abrazar y brindar tranquilidad,📦los pedidos se realizan con un mínimo de 2 días de anticipación para poder prepararlos con el cuidado que merecen 💞",
+
+  "material": "Hilo de algodón",
+
+  "alto": "27 cm",
+
+  "precio": "$ 24000",
+
+  "destacado": true,
+
+  "nuevo": true
+},
+{ "id": 2,
+  "nombre": "Dino Rexi",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Dino-Rexi.jpg"
+  ],
+
+  "descripcion": "Dinosaurio",
+
+  "material": "Hilo de algodón",
+
+  "alto": "23 cm",
+
+  "precio": "",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 3,
+  "nombre": "Muñeca",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Muñeca.jpg"
+  ],
+
+  "descripcion": "Muñeca",
+
+  "material": "Hilo de algodón",
+
+  "alto": "38 cm",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 4,
+  "nombre": "Ollie",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Ollie(intercambiados).jpg",
+    "images/productos/amigurumis/Ollie(intercambiados)-2.jpg"
+  ],
+
+  "descripcion": "Ollie",
+
+  "material": "Hilo de algodón",
+
+  "alto": "24 cm",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 5,
+  "nombre": "Oveja Dolly",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Oveja-Dolly.jpg"
+  ],
+
+  "descripcion": "Oveja Dolly",
+
+  "material": "Hilo de algodón",
+
+  "alto": "29 cm",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 6,
+  "nombre": "Perrita-salchicha",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Perrita-salchicha.jpg"
+  ],
+
+  "descripcion": "Perrita-salchicha",
+
+  "material": "Hilo de algodón",
+
+  "alto": "25 cm",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 7,
+  "nombre": "Cartuchera-Cosmetiquera",
+  "categoria": "Cartuchera-Cosmetiquera",
+
+  "imagenes": [
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera.jpg",
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-2.jpg",
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-3.jpg",
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-4.jpg"
+  ],
+
+  "descripcion": "Cartuchera-Cosmetiquera",
+
+  "material": "-",
+
+  "alto": "-",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 8,
+  "nombre": "LLaero Cobayo",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Cobayo.jpg"
+  ],
+
+  "descripcion": "Llavero Cobayo",
+
+  "material": "Hilo de algodón",
+
+  "Largo": "9 cm",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 9,
+  "nombre": "LLaero Erizo",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Erizo.jpg",
+    "images/productos/Llaveros/Llavero-Erizo-2.jpg"
+  ],
+
+  "descripcion": "Llavero Erizo",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 10,
+  "nombre": "LLaero palta",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Palta.jpg"
+  ],
+
+  "descripcion": "Llavero Palta",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 11,
+  "nombre": "Mochila Dino",
+  "categoria": "Mochilas",
+
+  "imagenes": [
+    "images/productos/Mochilas/Mochila-Dino.jpg",
+    "images/productos/Mochilas/Mochila-Dino-2.jpg",
+    "images/productos/Mochilas/Mochila-Dino-3.jpg",
+    "images/productos/Mochilas/Mochila-Dino-4.jpg"
+  ],
+
+  "descripcion": "Mochila Dino",
+
+  "material": "Cordura",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+}
+]

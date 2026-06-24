@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Puntadas Mágicas</title>
+<link rel="stylesheet" href="css/variables.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+<header class="header">
+<nav>
+<a href="#inicio">Inicio</a>
+<a href="#catalogo">Catálogo</a>
+<a href="#personalizados">Personalizados</a>
+<a href="#contacto">Contacto</a>
+</nav>
+</header>
+
+<section class="hero" id="inicio">
+
+    <div class="hero-content">
+
+        <span>
+            ✨ Hecho a mano con amor ✨
+        </span>
+
+        <h1>
+            Puntadas Mágicas
+        </h1>
+
+        <p>
+            Amigurumis, llaveros, neceseres y accesorios tejidos artesanalmente.
+            Cada creación está hecha con dedicación, detalle y mucho cariño.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="#catalogo" class="btn">
+                Ver Catálogo
+            </a>
+
+            <a href="#contacto" class="btn">
+                Redes y Contacto
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="catalogo">
+<h2>Catálogo</h2>
+<input id="buscador" placeholder="Buscar producto...">
+<div id="productos"></div>
+</section>
+
+<section id="personalizados">
+<h2>¿Tenés una idea especial?</h2>
+<p>Realizamos productos personalizados por encargo.</p>
+<a class="btn" target="_blank" href="https://wa.me/541123461400?text=Hola!%20Me%20gustaría%20consultar%20por%20un%20producto%20personalizado%20para%20Puntadas%20Mágicas.">Solicitar personalizado</a>
+</section>
+
+<section id="contacto" class="contact-section">
+
+    <h2>Contacto</h2>
+
+    <p>
+        ¿Tenés dudas o querés realizar un pedido?
+        Estamos para ayudarte.
+    </p>
+
+    <div class="contact-buttons">
+
+        <a
+            href="https://wa.me/541123461400?text=Hola%20buenas,%20quisiera%20hacerte%20una%20consulta%20sobre%20tus%20productos%20de%20Puntadas%20Mágicas."
+            target="_blank"
+            class="contact-btn">
+
+            💬 WhatsApp
+
+        </a>
+
+        <a
+            href="https://www.instagram.com/puntadasmagicas_xm/"
+            target="_blank"
+            class="contact-btn">
+
+            📷 Instagram
+
+        </a>
+
+    </div>
+
+</section>
+
+<a class="whatsapp" target="_blank" href="https://wa.me/541123461400?text=Hola%20buenas,%20quisiera%20hacerte%20una%20consulta%20sobre%20tus%20productos%20de%20Puntadas%20Mágicas.">WhatsApp</a>
+
+<div id="modalProducto" class="modal">
+
+    <div class="modal-content">
+
+        <span class="cerrar-modal">&times;</span>
+
+        <div class="modal-galeria">
+
+    <img id="modalImagen" src="" alt="">
+
+    <div class="galeria-miniaturas"></div>
+
+</div>
+
+<div id="modalInfo"></div>
+
+    </div>
+
+</div>
+
+<div id="zoomOverlay" class="zoom-overlay">
+
+    <img id="zoomImagen" src="" alt="">
+
+</div>
+
+<script src="js/catalogo.js"></script>
+</body>
+</html>

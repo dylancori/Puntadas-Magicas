@@ -1,0 +1,19 @@
+:root {
+
+    --bg: #F8F2EC;
+    --bg-light: #FFF8F4;
+
+    --pink: #E7C6C0;
+    --pink-dark: #D8B1AA;
+
+    --sage: #B8C8AE;
+    --sage-dark: #9EB08F;
+
+    --brown: #7D6253;
+    --text: #4A403A;
+
+    --shadow: 0 10px 25px rgba(0,0,0,.08);
+
+    --radius: 18px;
+
+}
