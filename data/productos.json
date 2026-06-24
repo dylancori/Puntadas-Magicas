@@ -82,14 +82,14 @@
   "nuevo": false
 },
 {"id": 5,
-  "nombre": "Oveja Dolly",
+  "nombre": "Ovejita Dolly",
   "categoria": "amigurumis",
 
   "imagenes": [
     "images/productos/amigurumis/Oveja-Dolly.jpg"
   ],
 
-  "descripcion": "Oveja Dolly",
+  "descripcion": "Ovejita Dolly",
 
   "material": "Hilo de algodón",
 
@@ -121,18 +121,15 @@
 
   "nuevo": false
 },
-{"id": 7,
-  "nombre": "Cartuchera-Cosmetiquera",
+{"id": 8,
+  "nombre": "Cartuchera-Cosmetiquera Kora",
   "categoria": "Cartuchera-Cosmetiquera",
 
   "imagenes": [
-    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera.jpg",
-    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-2.jpg",
-    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-3.jpg",
-    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-4.jpg"
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-Kora.jpg"
   ],
 
-  "descripcion": "Cartuchera-Cosmetiquera",
+  "descripcion": "Cartuchera-Cosmetiquera Kora",
 
   "material": "-",
 
@@ -144,7 +141,47 @@
 
   "nuevo": false
 },
-{"id": 8,
+{"id": 9,
+  "nombre": "Cartuchera-Cosmetiquera Moka",
+  "categoria": "Cartuchera-Cosmetiquera",
+
+  "imagenes": [
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-Moka.jpg"
+  ],
+
+  "descripcion": "Cartuchera-Cosmetiquera Moka",
+
+  "material": "-",
+
+  "alto": "-",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 10,
+  "nombre": "Cartuchera-Cosmetiquera Nuba",
+  "categoria": "Cartuchera-Cosmetiquera",
+
+  "imagenes": [
+    "images/productos/Cartuchera-Cosmetiquera/Cartuchera-Cosmetiquera-Nuba.jpg"
+  ],
+
+  "descripcion": "Cartuchera-Cosmetiquera Nuba",
+
+  "material": "-",
+
+  "alto": "-",
+
+  "precio": "$ 5000",
+
+  "destacado": true,
+
+  "nuevo": false
+},
+{"id": 11,
   "nombre": "Llavero Cobayo",
   "categoria": "Llaveros",
 
@@ -164,7 +201,7 @@
 
   "nuevo": false
 },
-{"id": 9,
+{"id": 12,
   "nombre": "Llavero Erizo",
   "categoria": "Llaveros",
 
@@ -183,7 +220,7 @@
 
   "nuevo": false
 },
-{"id": 10,
+{"id": 13,
   "nombre": "Llavero palta",
   "categoria": "Llaveros",
 
@@ -201,7 +238,7 @@
 
   "nuevo": false
 },
-{"id": 11,
+{"id": 14,
   "nombre": "Mochila Dino",
   "categoria": "Mochilas",
 
