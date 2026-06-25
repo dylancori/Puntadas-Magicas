@@ -15,7 +15,7 @@ body{
     display:flex;
 
     justify-content:center;
-
+    width:240px;
     margin-bottom:20px;
 
 }
@@ -23,22 +23,33 @@ body{
 
 .hero-logo img{
 
-    width:160px;
-
-    max-width:70%;
+    width:260px;
 
     border-radius:20px;
 
     box-shadow:0 15px 35px rgba(0,0,0,.12);
 
 }
+.hero-texto{
 
+    text-align:left;
 
-.hero-logo img:hover{
-
-    transform:translateY(-5px) scale(1.03);
+    max-width:650px;
 
 }
+.hero-frase{
+
+    display:block;
+
+    margin:10px 0 20px;
+
+    color:#ff9a76;
+
+    font-size:1.1rem;
+
+}
+
+
 
 .header{
     position:sticky;
@@ -306,9 +317,9 @@ body{
 }
 .hero{
 
-        min-height:90vh;
+    min-height:60vh;
 
-    padding-top:50px;
+    padding-top:30px;
 
     display:flex;
     align-items:center;
@@ -336,9 +347,19 @@ body{
 
 .hero-content{
 
-    max-width:800px;
+    display:flex;
 
-    z-index:2;
+    align-items:center;
+
+    justify-content:center;
+
+    gap:60px;
+
+    max-width:1100px;
+
+    margin:auto;
+    align-items:center;
+    gap:40px;
 }
 
 .hero h1{
