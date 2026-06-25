@@ -36,7 +36,7 @@
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -56,9 +56,9 @@
 
   "precio": "$ 5000",
 
-  "destacado": true,
+  "destacado": false,
 
-  "nuevo": false
+  "nuevo": true
 },
 {"id": 4,
   "nombre": "Ollie",
@@ -313,7 +313,7 @@
 
   "nuevo": false
 },
-{"id": 15,
+{"id": 18,
   "nombre": "Yerberos Argentina",
   "categoria": "Yerberos",
 

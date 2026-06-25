@@ -12,14 +12,57 @@
 <link rel="stylesheet" href="css/variables.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/responsive.css">
+<link rel="icon" type="image/png" href="images/Logo.jpg">
 </head>
 <body>
 <header class="header">
 <nav>
-<a href="#inicio">Inicio</a>
-<a href="#catalogo">Catálogo</a>
-<a href="#personalizados">Personalizados</a>
-<a href="#contacto">Contacto</a>
+
+    <a href="#inicio">Inicio</a>
+
+    <div class="dropdown">
+
+        <a href="#catalogo">
+            Catálogo ▼
+        </a>
+
+        <div class="dropdown-menu">
+    <a href="#" onclick="filtrarCategoria(''); return false;">
+        🛍️ Todos los productos
+    </a>
+
+    <a href="#" onclick="filtrarCategoria('amigurumis'); return false;">
+        🧸 Amigurumis
+    </a>
+
+    <a href="#" onclick="filtrarCategoria('Llaveros'); return false;">
+        🔑 Llaveros
+    </a>
+
+    <a href="#" onclick="filtrarCategoria('Mochilas'); return false;">
+        🎒 Mochilas
+    </a>
+
+    <a href="#" onclick="filtrarCategoria('Neceser'); return false;">
+        👜 Neceser
+    </a>
+
+    <a href="#" onclick="filtrarCategoria('Yerberos'); return false;">
+        🧉 Yerberos
+    </a>
+
+    <a href="#" onclick="filtrarCategoria('Cartuchera-Cosmetiquera'); return false;">
+        ✏️ Cartucheras
+    </a>
+
+</div>
+
+    </div>
+
+    <a href="#personalizados">Personalizados</a>
+
+    <a href="#contacto">Contacto</a>
+
 </nav>
 </header>
 
@@ -27,39 +70,85 @@
 
     <div class="hero-content">
 
-        <span>
-            ✨ Hecho a mano con amor ✨
-        </span>
+    <div class="hero-logo">
+        <img src="images/logo.jpg" alt="Puntadas Mágicas">
+    </div>
 
-        <h1>
-            Puntadas Mágicas
-        </h1>
+    <span>
+        ✨ Hecho a mano con amor ✨
+    </span>
 
-        <p>
-            Amigurumis, llaveros, neceseres y accesorios tejidos artesanalmente.
-            Cada creación está hecha con dedicación, detalle y mucho cariño.
-        </p>
+    <h1>
+        Puntadas Mágicas
+    </h1>
 
-        <div class="hero-buttons">
+    <p>
+        Amigurumis, llaveros, neceseres y accesorios tejidos artesanalmente.
+        Cada creación está hecha con dedicación, detalle y mucho cariño.
+    </p>
 
-            <a href="#catalogo" class="btn">
-                Ver Catálogo
-            </a>
+    <div class="hero-buttons">
 
-            <a href="#contacto" class="btn">
-                Redes y Contacto
-            </a>
+        <a href="#catalogo" class="btn">
+            Ver Catálogo
+        </a>
 
-        </div>
+        <a href="#contacto" class="btn">
+            Redes y Contacto
+        </a>
+
+    </div>
+
+</div>
 
     </div>
 
 </section>
 
 <section id="catalogo">
-<h2>Catálogo</h2>
-<input id="buscador" placeholder="Buscar producto...">
-<div id="productos"></div>
+
+    <h2 class="titulo-catalogo">
+        Nuestro Catálogo
+    </h2>
+
+    <div class="catalogo-controles">
+        
+
+        <input
+            type="text"
+            id="buscador"
+            placeholder="🔍 Buscar producto..."
+        >
+
+        <select id="ordenar">
+
+    <option value="default">
+        Ordenar por...
+    </option>
+
+    <option value="precio-asc">
+        💲 Precio: Menor a Mayor
+    </option>
+
+    <option value="precio-desc">
+        💲 Precio: Mayor a Menor
+    </option>
+
+    <option value="nombre-asc">
+        🔤 Nombre: A → Z
+    </option>
+
+    <option value="nombre-desc">
+        🔤 Nombre: Z → A
+    </option>
+
+
+</select>
+
+    </div>
+
+    <div id="productos"></div>
+
 </section>
 
 <section id="personalizados">
