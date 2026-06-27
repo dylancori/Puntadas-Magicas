@@ -20,6 +20,8 @@ fetch('data/productos.json')
                 ${p.destacado ? '<span class="badge destacado">⭐ Destacado</span>' : ''}
                 <h3>${p.nombre}</h3>
                 <p>${p.descripcion}</p>
+                <p>${p.material}</p>
+                <p>${p.alto}</p>
                 <p class="precio">${p.precio || 'Consultar precio'}</p>
                 <a
                 class="btn-comprar"
