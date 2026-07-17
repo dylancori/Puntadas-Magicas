@@ -420,6 +420,8 @@
 
   "material": "Hilo de algodón",
 
+  "alto": "9 cm",
+
   "precio": "$ 10000",
 
   "destacado": false,
@@ -438,6 +440,8 @@
 
   "material": "Hilo de algodón",
 
+  "alto":"8cm",
+
   "precio": "$ 5000",
 
   "destacado": false,
@@ -455,7 +459,7 @@
   "descripcion": "Llavero Pinguino Rosa",
 
   "material": "Hilo de algodón",
-
+  "alto":"8cm",
   "precio": "$ 7000",
 
   "destacado": false,
@@ -473,6 +477,7 @@
   "descripcion": "Llavero Pug",
 
   "material": "Hilo de algodón",
+  "alto":"6.5cm",
 
   "precio": "$ 5000",
 
@@ -491,6 +496,7 @@
   "descripcion": "Llavero Sapito",
 
   "material": "Hilo de algodón",
+  "alto":"9 cm",
 
   "precio": "$ 8000",
 
@@ -509,6 +515,7 @@
   "descripcion": "Llavero Winnie Pooh",
 
   "material": "Hilo de algodón",
+  "alto":"8cm",
 
   "precio": "$ 5000",
 

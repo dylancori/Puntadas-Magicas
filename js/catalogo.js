@@ -21,7 +21,7 @@ fetch('data/productos.json')
                 <h3>${p.nombre}</h3>
                 <p>Material:</p>
                 <p>${p.material}</p>
-                <p>${p.alto}</p>
+                <p>${p.alto || ''}</p>
                 <p class="precio">${p.precio || 'Consultar precio'}</p>
                 <a
                 class="btn-comprar"
