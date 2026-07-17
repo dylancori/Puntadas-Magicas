@@ -14,11 +14,11 @@
 
   "alto": "27 cm",
 
-  "precio": "$ 24000",
+  "precio": "$ 23400",
 
-  "destacado": true,
+  "destacado": false,
 
-  "nuevo": true
+  "nuevo": false
 },
 { "id": 2,
   "nombre": "Dino Rexi",
@@ -34,7 +34,7 @@
 
   "alto": "23 cm",
 
-  "precio": "",
+  "precio": "$ 22900",
 
   "destacado": false,
 
@@ -54,11 +54,11 @@
 
   "alto": "38 cm",
 
-  "precio": "",
+  "precio": "$ 44400",
 
   "destacado": false,
 
-  "nuevo": true
+  "nuevo": false
 },
 {"id": 4,
   "nombre": "Ollie",
@@ -75,9 +75,9 @@
 
   "alto": "24 cm",
 
-  "precio": "",
+  "precio": "$ 26500",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -95,9 +95,9 @@
 
   "alto": "29 cm",
 
-  "precio": "",
+  "precio": "$ 24000",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -115,9 +115,9 @@
 
   "alto": "25 cm",
 
-  "precio": "",
+  "precio": "$ 20700",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -131,13 +131,13 @@
 
   "descripcion": "Cartuchera-Cosmetiquera Kora",
 
-  "material": "-",
+  "material": "Cordura",
 
   "alto": "-",
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -151,13 +151,13 @@
 
   "descripcion": "Cartuchera-Cosmetiquera Moka",
 
-  "material": "-",
+  "material": "Cordura",
 
-  "alto": "-",
+  "alto": "",
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -171,13 +171,13 @@
 
   "descripcion": "Cartuchera-Cosmetiquera Nuba",
 
-  "material": "-",
+  "material": "Cordura",
 
   "alto": "-",
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -186,7 +186,8 @@
   "categoria": "Llaveros",
 
   "imagenes": [
-    "images/productos/Llaveros/Llavero-Cobayo.jpg"
+    "images/productos/Llaveros/Llavero-Cobayo.jpg",
+    "images/productos/Llaveros/Llavero-Cobayo2.jpg"
   ],
 
   "descripcion": "Llavero Cobayo",
@@ -195,9 +196,9 @@
 
   "Largo": "9 cm",
 
-  "precio": "",
+  "precio": "$ 6000",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -214,9 +215,9 @@
 
   "material": "Hilo de algodón",
 
-  "precio": "",
+  "precio": "$ 10000",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -232,9 +233,9 @@
 
   "material": "Hilo de algodón",
 
-  "precio": "",
+  "precio": "$ 8000 (2x15000)",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -255,7 +256,7 @@
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -273,7 +274,7 @@
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -291,7 +292,7 @@
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -309,7 +310,7 @@
 
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
 
   "nuevo": false
 },
@@ -325,9 +326,193 @@
 
   "material": "Cordura",
 
+  "precio": "$ 6000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{ "id": 19,
+  "nombre": "Pulpo",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/Pulpo.jpg"
+  ],
+
+  "descripcion": "",
+
+  "material": "Hilo de algodón",
+
+  "alto": "21.5 cm",
+
+  "precio": "$ 15000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{ "id": 20,
+  "nombre": "Winnie Pooh",
+  "categoria": "amigurumis",
+
+  "imagenes": [
+    "images/productos/amigurumis/WinniePooh.jpg"
+  ],
+
+  "descripcion": "",
+
+  "material": "Hilo de algodón",
+
+  "alto": "12cm",
+
+  "precio": "$ 10000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 21,
+  "nombre": "Neceser Galaxia",
+  "categoria": "Neceser",
+
+  "imagenes": [
+    "images/productos/Neceser/Neceser-Galaxia.jpg"
+  ],
+
+  "descripcion": "Neceser Galaxia",
+
+  "material": "Cordura",
+
   "precio": "",
 
-  "destacado": true,
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 22,
+  "nombre": "Neceser Kawaii",
+  "categoria": "Neceser",
+
+  "imagenes": [
+    "images/productos/Neceser/Neceser-Kawaii.jpg"
+  ],
+
+  "descripcion": "Neceser Kawaii",
+
+  "material": "Cordura",
+
+  "precio": "",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 23,
+ "nombre": "Llavero Capibara",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Capibara.jpg"
+  ],
+
+  "descripcion": "Llavero Capibara",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 10000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 24,
+ "nombre": "Llavero Pinguino Negro",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-pinguino-negro.jpg"
+  ],
+
+  "descripcion": "Llavero Pinguino Negro",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 5000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 25,
+ "nombre": "Llavero Pinguino Rosa",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Pinguino-Rosa.jpg"
+  ],
+
+  "descripcion": "Llavero Pinguino Rosa",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 7000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 26,
+ "nombre": "Llavero Pug",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Pug.jpg"
+  ],
+
+  "descripcion": "Llavero Pug",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 5000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 27,
+ "nombre": "Llavero Sapito",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Sapito.jpg"
+  ],
+
+  "descripcion": "Llavero Sapito",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 8000",
+
+  "destacado": false,
+
+  "nuevo": false
+},
+{"id": 28,
+ "nombre": "Llavero Winnie Pooh",
+  "categoria": "Llaveros",
+
+  "imagenes": [
+    "images/productos/Llaveros/Llavero-Winnie.jpg"
+  ],
+
+  "descripcion": "Llavero Winnie Pooh",
+
+  "material": "Hilo de algodón",
+
+  "precio": "$ 5000",
+
+  "destacado": false,
 
   "nuevo": false
 }

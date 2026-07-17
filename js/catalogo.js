@@ -19,7 +19,7 @@ fetch('data/productos.json')
                 ${p.nuevo ? '<span class="badge nuevo">🆕 Nuevo</span>' : ''}
                 ${p.destacado ? '<span class="badge destacado">⭐ Destacado</span>' : ''}
                 <h3>${p.nombre}</h3>
-                <p>${p.descripcion}</p>
+                <p>Material:</p>
                 <p>${p.material}</p>
                 <p>${p.alto}</p>
                 <p class="precio">${p.precio || 'Consultar precio'}</p>
